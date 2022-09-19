@@ -11,8 +11,7 @@ public class main {
             System.out.println(one_time + " " + one_time.Description + " " + one_time.temp);
         }
     }
-    public static void best(WSSA time)
-    {
+    public static void best(WSSA time) {
         switch (time)
         {
             case winter:
